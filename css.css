@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(4, 16, 56);
+}
+
+.koor{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: black;
+    color: goldenrod;
+}

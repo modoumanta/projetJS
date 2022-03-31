@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(1, 8, 31);
+}
+
+.me{
+    width: 100%;
+    background-color: black;
+    color: goldenrod;
+}
+.col-6:hover{
+    margin: unset;
+    padding: unset;
+}
+
+.result1,.result2,.result3,.result4,.result5,.result6,.result7{
+    text-align: center;
+    border: solid 1px black;
+}
+
+.resultat1,.resultat2,.resultat3,.resultat4,.resultat5,.resultat6,.resultat7{
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+.hel{
+    width: 100%;
+    background-color: black;
+    color: goldenrod;
+}
+.resultat11,.resultat12,.resultat13,.resultat14,.resultat15,.resultat16,.resultat17{
+    background-color: black;
+    color: goldenrod;
+}
+
+.lien1{
+    text-decoration: unset;
+    background-color: black;
+    color: goldenrod;
+    width: 20px;
+    height: 10px;
+    border-radius: 40px 40px;
+}
+.lin{
+    margin-top: 20px;
+
+}
